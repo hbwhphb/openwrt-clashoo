@@ -1,10 +1,4 @@
-> 我维护 luci-app-clashoo，不是为了证明代码有多优秀，
-> 而是想把经典重新带回来。
->
-> 在代理软件越来越复杂的今天，
-> 我更希望它依旧是一款 简单易用、稳定可靠、开箱即用 的插件。
->
-> 把复杂留给自己，把简单留给用户。
+
 
 <p align="center">
     <img src="luci-app-clashoo/htdocs/luci-static/clashoo/logo.png" width="138" />
